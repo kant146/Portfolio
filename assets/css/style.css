@@ -19,11 +19,11 @@ html[data-theme="light"] {
  inset #4D4D4D -2px -2px 4px;
   --col-bd-icon:transparent;
   --bg-icon: #fff;
-  --col-icon-twitter: #1da1f2;
-  --col-icon-dribbble: #ea4c89;
+  --col-icon-instagram: #f21d64;
+  --col-icon-facebook: #4267B2;
   --col-icon-linkedin: #0e76a8;
   --col-icon-medium: #00ab6c;
-  --col-icon-kaggle: #41aff3;
+  --col-icon-youtube: #FF0000;
   --col-icon-github:#24292e;  
   --col-icon-instagram: rgb(201, 94, 174);
   --col-icon-mail:rgb(209, 82, 82);
@@ -290,7 +290,7 @@ Rotate Transition in foote Soical Icon
 Hover effect in foote Soical Icon
 *********/
 
-.rounded-social-buttons .social-button.twitter:hover, .rounded-social-buttons .social-button.twitter:focus {
+.rounded-social-buttons .social-button.instagram:hover, .rounded-social-buttons .social-button.instagram:focus {
   color: #000;
   background: #22B6A7;
   border-color: #22B6A7;
@@ -315,6 +315,15 @@ Hover effect in foote Soical Icon
   background: #22B6A7;
   border-color: #22B6A7;
 }
+.rounded-social-buttons .social-button.youtube {
+  background:  #22B6A7;
+}
+
+.rounded-social-buttons .social-button.youtube:hover, .rounded-social-buttons .social-button.youtube:focus {
+  color: #000000;
+  background: #22B6A7;
+  border-color: #22B6A7;
+}
 
 .rounded-social-buttons .social-button.github {
   background: #22B6A7;
@@ -324,6 +333,15 @@ Hover effect in foote Soical Icon
   color: #000000;
   background: #22B6A7;
   border-color: #22B6A7;
+}
+.rounded-social-buttons .social-button.facebook:hover, .rounded-social-buttons .social-button.facebook:focus {
+  color: #000000;
+  background: #22B6A7;
+  border-color: #22B6A7;
+}
+
+.rounded-social-buttons .social-button.github {
+  background: #22B6A7;
 }
 
 /************ 
