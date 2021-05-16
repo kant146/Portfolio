@@ -32,10 +32,11 @@ let footer = $(`
         <p class="tag" >"Develop a passion for learning. If you do, you will never cease to grow."
         </p>
           <div class="rounded-social-buttons tag">
-            <a class="social-button twitter" href="#" target="_blank"><i class="fab fa-twitter"></i></a>
-            <a class="social-button linkedin" href="#" target="_blank"><i class="fab fa-linkedin"></i></a>
-            <a class="social-button medium" href="#" target="_blank"><i class="fab fa-medium"></i></a>
-            <a class="social-button github" href="#" target="_blank"><i class="fab fa-github"></i></a>
+            <a class="social-button instagram" href="https://www.instagram.com/kant_146/" target="_blank"><i class="fab fa-instagram"></i></a>
+            <a class="social-button linkedin" href="https://www.linkedin.com/in/krishnakant-kumar-80965b176/" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a class="social-button youtube" href="https://www.youtube.com/channel/UCBTwzxjvK-0gGuJ1g_LlP8Q" target="_blank"><i class="fab fa-youtube"></i></a>
+            <a class="social-button github" href="https://github.com/kant146" target="_blank"><i class="fab fa-github"></i></a>
+            <a class="social-button facebook" href="https://www.facebook.com/omgkant.146/" target="_blank"><i class="fab fa-facebook"></i></a>
           </div>
       </div>
 

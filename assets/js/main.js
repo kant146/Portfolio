@@ -99,20 +99,20 @@ let footer = $(`
         <p>"Develop a passion for learning. If you do, you will never cease to grow."</p>
       </div>
       <div class="footer-icons">
-      <a href="#" class="linkedin sub-footer-icon">
+      <a href="https://www.linkedin.com/in/krishnakant-kumar-80965b176/" class="linkedin sub-footer-icon">
           <i class="fab fa-linkedin"></i>
         </a>
-        <a href="#" class="git sub-footer-icon">
+        <a href="https://github.com/kant146" class="git sub-footer-icon">
           <i class="fab fa-github"></i>
         </a>
-        <a href="#" class="twitter sub-footer-icon">
+        <a href="" class="twitter sub-footer-icon">
           <i class="fab fa-twitter"></i>
         </a>
-        <a href="#" class="email-icon sub-footer-icon" >
+        <a href="krishnakantkumar146@gmail.com" class="email-icon sub-footer-icon" >
         <i id="mail" class="fa fa-envelope" ></i>
         </a>
-        <a href="#" class="kaggle sub-footer-icon" >
-        <i class="fab fa-kaggle" id="kaggle-icon" ></i>
+        <a href="https://www.facebook.com/omgkant.146/" class="facebook sub-footer-icon" >
+        <i class="fab fa-facebook" id="facebook-icon" ></i>
         </a> 
         <!-- <a href="#" class="google-scholar sub-footer-icon">
         <i class="ai ai-google-scholar-square ai-3x" ></i>
