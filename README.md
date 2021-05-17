@@ -37,7 +37,7 @@ Well! Take a chill pill. Don't be intimidated by those thoughts. __Awesome Portf
 
 ## How to use this?🛠
 
-[Check out our awesome Documentation](https://smaranjitghose.github.io/awesome-portfolio-websites/)
+[Check out our awesome Documentation](https://kant146.github.io/Portfolio/)
 
 ## Contribution Guidelines🏗
 
@@ -45,7 +45,7 @@ Are we missing any of your favorite features, which you think you can add to it�
 
 To start contributing, follow the below guidelines: 
 
-**1.**  Fork [this](https://github.com/smaranjitghose/awesome-portfolio-websites) repository.
+**1.**  [this](https://kant146.github.io/Portfolio/) repository.
 
 **2.**  Clone your forked copy of the project.
 
@@ -63,7 +63,7 @@ cd awesome-portfolio-websites
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/smaranjitghose/awesome-portfolio-websites.git 
+git remote add upstream  https://github.com/kant146/Portfolio.git
 ```
 
 **5.** Check the remotes for this repository.
@@ -132,13 +132,13 @@ git push -u origin <your_branch_name>
 <img width=20% src="https://avatars2.githubusercontent.com/u/40017559?v=4">
 </p>
 
-<a href="https://github.com/smaranjitghose">
-<h5 align="center"><b>Smaranjit Ghose</b></a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<a href="https://github.com/kant146/Portfolio">
+<h5 align="center"><b>Krishnakant</b></a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 <a href="https://github.com/anushbhatia"><b>Anush Bhatia</b></h5></a>
 
 #### Our valuable Contributors👩‍💻👨‍💻 :
-<a href="https://github.com/smaranjitghose/awesome-portfolio-websites/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=smaranjitghose/awesome-portfolio-websites" />
+<a href="https://github.com/kant146/Portfolio/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=kant146/Portfolio/" />
 </a>
 
 ## Open Source Programs we have been associated with: 
