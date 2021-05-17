@@ -21,7 +21,7 @@ Well! Take a chill pill. Don't be intimidated by those thoughts. __Awesome Portf
 ## A sneek peek into what we have here🙈 :
 
 ### Home Page:
-<p align="center"><img src="./readme_assets/Home_Page.gif"></p>
+<p align="center"><img src="./readme_assets/Home-Page.gif"></p>
 
 ### Experience Page:
 <p align="center"><img src="./readme_assets/Experience_Page.gif"></p>
